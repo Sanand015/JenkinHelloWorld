@@ -8,6 +8,7 @@ public class JenkinsTest {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in); 
 		System.out.println("Hello Jenkins");
+		System.out.println("Made some changes");
 
 	}
 
